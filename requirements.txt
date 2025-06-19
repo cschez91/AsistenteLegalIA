@@ -1,0 +1,6 @@
+streamlit
+python-docx
+PyPDF2
+pandas
+google-generativeai
+tenacity
