@@ -344,15 +344,14 @@ with tab_cargar:
                     doc_type = "PDF"
                 
                 if full_text:
-                    # Aquí puedes añadir un formulario para metadatos si lo deseas, o extraerlos con IA
-                    # Por ahora, los dejamos vacíos o puedes usar IA para extraerlos
                     st.write(f"Procesando: **{uploaded_file.name}**")
-                    # Intento de extracción de metadatos básicos con IA (solo para fines demostrativos, puede ser lento)
+                    # La sección para extracción de metadatos con IA está COMENTADA.
+                    # Si quieres usarla, DESCOMENTA cada una de las líneas, eliminando el '#'.
+                    # Ten en cuenta que esto requiere que el LLM esté inicializado.
                     # if llm and st.checkbox(f"Extraer metadatos con IA para {uploaded_file.name} (experimental)"):
                     #     with st.spinner("Extrayendo metadatos con IA..."):
                     #         try:
-                    #             # Limita el texto enviado al LLM para metadatos si es muy largo
-                    #             short_text = full_text[:4000] # Primeros 4000 caracteres
+                    #             short_text = full_text[:4000] 
                     #             prompt_metadata = f"""Extrae los siguientes metadatos del siguiente documento legal:
                     #             - Tipo de Documento (ej. Contrato, Sentencia, Ley, Demanda, etc.)
                     #             - Área Legal (ej. Civil, Penal, Mercantil, Laboral, etc.)
@@ -366,32 +365,33 @@ with tab_cargar:
 
                     #             Formato de salida (JSON):
                     #             ```json
-                    //             {{
-                    //                 "tipo_documento": "...",
-                    //                 "area_legal": "...",
-                    //                 "partes": "...",
-                    //                 "fecha_documento": "AAAA-MM-DD",
-                    //                 "resumen": "...",
-                    //                 "palabras_clave": "..."
-                    //             }}
-                    //             ```
-                    //             """
-                    //             response = llm.invoke(prompt_metadata)
-                    //             extracted_metadata = json.loads(response.content.strip("```json\n```").strip())
-                    //             
-                    //             doc_type_ai = extracted_metadata.get("tipo_documento", "")
-                    //             legal_area_ai = extracted_metadata.get("area_legal", "")
-                    //             parties_ai = extracted_metadata.get("partes", "")
-                    //             doc_date_ai = extracted_metadata.get("fecha_documento", "")
-                    //             summary_ai = extracted_metadata.get("resumen", "")
-                    //             keywords_ai = extracted_metadata.get("palabras_clave", "")
-                    //             
-                    //             st.json(extracted_metadata) # Mostrar lo que extrajo la IA
-                    //         except Exception as ai_e:
-                    //             st.warning(f"No se pudieron extraer metadatos con IA para {uploaded_file.name}: {ai_e}")
-                    //             doc_type_ai, legal_area_ai, parties_ai, doc_date_ai, summary_ai, keywords_ai = "", "", "", "", "", ""
-                    # else:
-                    doc_type_ai, legal_area_ai, parties_ai, doc_date_ai, summary_ai, keywords_ai = "", "", "", "", "", ""
+                    #             {{
+                    #                 "tipo_documento": "...",
+                    #                 "area_legal": "...",
+                    #                 "partes": "...",
+                    #                 "fecha_documento": "AAAA-MM-DD",
+                    #                 "resumen": "...",
+                    #                 "palabras_clave": "..."
+                    #             }}
+                    #             ```
+                    #             """
+                    #             response = llm.invoke(prompt_metadata)
+                    #             extracted_metadata = json.loads(response.content.strip("```json\n```").strip())
+                    #             
+                    #             doc_type_ai = extracted_metadata.get("tipo_documento", "")
+                    #             legal_area_ai = extracted_metadata.get("area_legal", "")
+                    #             parties_ai = extracted_metadata.get("partes", "")
+                    #             doc_date_ai = extracted_metadata.get("fecha_documento", "")
+                    #             summary_ai = extracted_metadata.get("resumen", "")
+                    #             keywords_ai = extracted_metadata.get("palabras_clave", "")
+                    #             
+                    #             st.json(extracted_metadata)
+                    #         except Exception as ai_e:
+                    #             st.warning(f"No se pudieron extraer metadatos con IA para {uploaded_file.name}: {ai_e}")
+                    #             doc_type_ai, legal_area_ai, parties_ai, doc_date_ai, summary_ai, keywords_ai = "", "", "", "", "", ""
+                    else:
+                        # Si la extracción con IA no está activa o falla, usa valores por defecto
+                        doc_type_ai, legal_area_ai, parties_ai, doc_date_ai, summary_ai, keywords_ai = "", "", "", "", "", ""
 
                     insert_document(
                         file_path, 
@@ -523,4 +523,63 @@ with tab_gestion:
     st.markdown("---")
     st.subheader("Mantenimiento de la Base de Datos")
 
-    # Botón para eliminar todos los documentos y
+    # Botón para limpiar la base de datos
+    if st.button("Limpiar Base de Datos (Eliminar TODA la Información Indexada)", type="secondary"):
+        confirm_delete = st.checkbox("Confirmo que deseo eliminar **todos** los documentos y sus fragmentos de la base de datos.")
+        if confirm_delete:
+            conn = sqlite3.connect(DB_FILE)
+            c = conn.cursor()
+            try:
+                c.execute("DELETE FROM document_chunks") # Eliminar chunks primero por la FK
+                c.execute("DELETE FROM documentos")
+                conn.commit()
+                st.success("¡Base de datos limpiada con éxito! Todos los documentos indexados han sido eliminados.")
+                st.warning("Deberás volver a cargar tus documentos para re-indexarlos.")
+                st.experimental_rerun() # Refrescar la app para actualizar los contadores
+            except Exception as e:
+                st.error(f"Error al limpiar la base de datos: {e}")
+            finally:
+                conn.close()
+        else:
+            st.info("Confirma la eliminación para proceder.")
+
+    # Opción para eliminar un documento específico por ID
+    st.markdown("---")
+    st.subheader("Eliminar Documento Específico")
+    doc_id_to_delete = st.number_input("Introduce el ID del documento a eliminar:", min_value=1, format="%d", key="delete_specific_doc")
+    if st.button("Eliminar Documento por ID", type="secondary"):
+        if doc_id_to_delete:
+            conn = sqlite3.connect(DB_FILE)
+            c = conn.cursor()
+            try:
+                c.execute("SELECT filepath, filename FROM documentos WHERE id = ?", (doc_id_to_delete,))
+                doc_info = c.fetchone()
+                if doc_info:
+                    filepath_to_delete = doc_info[0]
+                    filename_to_delete = doc_info[1]
+
+                    # Eliminar chunks asociados
+                    c.execute("DELETE FROM document_chunks WHERE document_id = ?", (doc_id_to_delete,))
+                    # Eliminar el documento de la tabla 'documentos'
+                    c.execute("DELETE FROM documentos WHERE id = ?", (doc_id_to_delete,))
+                    conn.commit()
+
+                    # Eliminar el archivo físico del sistema de archivos
+                    if os.path.exists(filepath_to_delete):
+                        os.remove(filepath_to_delete)
+                        st.success(f"Documento '{filename_to_delete}' (ID: {doc_id_to_delete}) y sus fragmentos eliminados de la base de datos y el archivo físico.")
+                    else:
+                        st.warning(f"Documento '{filename_to_delete}' (ID: {doc_id_to_delete}) y sus fragmentos eliminados de la base de datos, pero el archivo físico no fue encontrado en '{filepath_to_delete}'.")
+                    
+                    st.experimental_rerun() # Refrescar la app para actualizar los contadores
+                else:
+                    st.warning("Documento no encontrado con el ID proporcionado.")
+            except Exception as e:
+                st.error(f"Error al eliminar el documento: {e}")
+            finally:
+                conn.close()
+        else:
+            st.warning("Por favor, introduce un ID de documento válido para eliminar.")
+
+# Asegurarse de inicializar la DB al inicio de la app
+init_db()
