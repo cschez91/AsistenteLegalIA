@@ -344,14 +344,17 @@ with tab_cargar:
                     doc_type = "PDF"
                 
                 if full_text:
+                    # Aquí puedes añadir un formulario para metadatos si lo deseas, o extraerlos con IA
+                    # Por ahora, los dejamos vacíos o puedes usar IA para extraerlos
                     st.write(f"Procesando: **{uploaded_file.name}**")
-                    # La sección para extracción de metadatos con IA está COMENTADA.
-                    # Si quieres usarla, DESCOMENTA cada una de las líneas, eliminando el '#'.
-                    # Ten en cuenta que esto requiere que el LLM esté inicializado.
+                    # Intento de extracción de metadatos básicos con IA (solo para fines demostrativos, puede ser lento)
+                    # La siguiente sección está completamente comentada. Si la necesitas activar,
+                    # elimina el '#' de cada línea y asegúrate de configurar 'llm' y 'embeddings_model'.
                     # if llm and st.checkbox(f"Extraer metadatos con IA para {uploaded_file.name} (experimental)"):
                     #     with st.spinner("Extrayendo metadatos con IA..."):
                     #         try:
-                    #             short_text = full_text[:4000] 
+                    #             # Limita el texto enviado al LLM para metadatos si es muy largo
+                    #             short_text = full_text[:4000] # Primeros 4000 caracteres
                     #             prompt_metadata = f"""Extrae los siguientes metadatos del siguiente documento legal:
                     #             - Tipo de Documento (ej. Contrato, Sentencia, Ley, Demanda, etc.)
                     #             - Área Legal (ej. Civil, Penal, Mercantil, Laboral, etc.)
@@ -365,7 +368,7 @@ with tab_cargar:
 
                     #             Formato de salida (JSON):
                     #             ```json
-                    #             {{
+                    #             {{  # <--- ESTA ES LA LÍNEA 369 EN TU CAPTURA Y DEBE QUEDAR ASÍ
                     #                 "tipo_documento": "...",
                     #                 "area_legal": "...",
                     #                 "partes": "...",
@@ -385,14 +388,12 @@ with tab_cargar:
                     #             summary_ai = extracted_metadata.get("resumen", "")
                     #             keywords_ai = extracted_metadata.get("palabras_clave", "")
                     #             
-                    #             st.json(extracted_metadata)
+                    #             st.json(extracted_metadata) # Mostrar lo que extrajo la IA
                     #         except Exception as ai_e:
                     #             st.warning(f"No se pudieron extraer metadatos con IA para {uploaded_file.name}: {ai_e}")
                     #             doc_type_ai, legal_area_ai, parties_ai, doc_date_ai, summary_ai, keywords_ai = "", "", "", "", "", ""
-                    else:
-                        # Si la extracción con IA no está activa o falla, usa valores por defecto
+                    else: # <--- ESTA LÍNEA ES CRÍTICA Y DEBE ESTAR TAL CUAL (sin '#') Y CON ESTA INDENTACIÓN
                         doc_type_ai, legal_area_ai, parties_ai, doc_date_ai, summary_ai, keywords_ai = "", "", "", "", "", ""
-
                     insert_document(
                         file_path, 
                         uploaded_file.name, 
