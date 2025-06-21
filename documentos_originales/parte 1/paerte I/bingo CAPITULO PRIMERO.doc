@@ -1,0 +1,608 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang3082\deflangfe3082{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f36\froman\fcharset238\fprq2 Times New Roman CE;}
+{\f37\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f39\froman\fcharset161\fprq2 Times New Roman Greek;}{\f40\froman\fcharset162\fprq2 Times New Roman Tur;}{\f41\froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f42\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f43\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f44\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;
+\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;
+\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \snext0 Normal;}{
+\s1\qj \li0\ri0\keepn\nowidctlpar\faauto\outlinelevel0\rin0\lin0\itap0 \b\fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext0 heading 1;}{\s2\qc \li0\ri0\keepn\nowidctlpar\faauto\outlinelevel1\rin0\lin0\itap0 
+\b\fs24\ul\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext0 heading 2;}{\s3\qj \li0\ri0\keepn\nowidctlpar\faauto\outlinelevel2\rin0\lin0\itap0 \b\fs24\ul\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext0 heading 3;}
+{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\qj \li0\ri0\sl240\slmult0\nowidctlpar\tx720\faauto\rin0\lin0\itap0 
+\fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext15 p0;}{\s16\qc \li0\ri0\sl240\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext16 c1;}{
+\s17\qj \li0\ri0\sl300\slmult0\nowidctlpar\tx720\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext17 p2;}{\s18\qj \li0\ri0\sl300\slmult0\nowidctlpar\tx720\faauto\rin0\lin0\itap0 
+\fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext18 p3;}{\s19\qj \fi-288\li720\ri0\sl300\slmult0\nowidctlpar\tx420\tx780\faauto\rin0\lin720\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext19 p4;}{
+\s20\qj \li7580\ri0\sl240\slmult0\nowidctlpar\tx9020\faauto\rin0\lin7580\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext20 p5;}{\s21\qj \li740\ri0\sl300\slmult0\nowidctlpar\tx700\faauto\rin0\lin740\itap0 
+\fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext21 p6;}{\s22\qj \fi-288\li720\ri0\sl300\slmult0\nowidctlpar\tx360\faauto\rin0\lin720\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext22 p7;}{
+\s23\ql \li7580\ri0\sl240\slmult0\nowidctlpar\tx9020\faauto\rin0\lin7580\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext23 p8;}{\s24\ql \li740\ri0\sl300\slmult0\nowidctlpar\tx700\faauto\rin0\lin740\itap0 
+\fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext24 p9;}{\s25\ql \fi-288\li720\ri0\sl300\slmult0\nowidctlpar\tx360\faauto\rin0\lin720\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext25 p10;}{
+\s26\ql \li0\ri0\sl300\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext26 p11;}{\s27\qj \li1700\ri0\sl300\slmult0\nowidctlpar\tx3140\faauto\rin0\lin1700\itap0 
+\fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext27 p12;}{\s28\ql \li8960\ri0\sl240\slmult0\nowidctlpar\tx10400\faauto\rin0\lin8960\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext28 p13;}{
+\s29\ql \li9060\ri0\sl240\slmult0\nowidctlpar\tx10500\faauto\rin0\lin9060\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext29 p14;}{\s30\ql \li7620\ri0\sl240\slmult0\nowidctlpar\tx9060\faauto\rin0\lin7620\itap0 
+\fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext30 p15;}{\s31\ql \fi-288\li720\ri0\sl300\slmult0\nowidctlpar\tx420\tx700\faauto\rin0\lin720\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext31 p16;}{
+\s32\ql \fi-288\li720\ri0\sl300\slmult0\nowidctlpar\tx420\tx780\faauto\rin0\lin720\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext32 p17;}{\s33\qj \li500\ri0\sl240\slmult0\nowidctlpar\tx940\faauto\rin0\lin500\itap0 
+\fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext33 p18;}{\s34\ql \li500\ri0\sl240\slmult0\nowidctlpar\faauto\rin0\lin500\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext34 p19;}{
+\s35\qj \li7620\ri0\sl240\slmult0\nowidctlpar\tx9060\faauto\rin0\lin7620\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext35 p20;}{\s36\qj \li9060\ri0\sl240\slmult0\nowidctlpar\tx10500\faauto\rin0\lin9060\itap0 
+\fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext36 p21;}{\s37\qj \li7440\ri0\sl240\slmult0\nowidctlpar\tx8880\faauto\rin0\lin7440\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext37 p22;}{
+\s38\ql \li7440\ri0\sl240\slmult0\nowidctlpar\faauto\rin0\lin7440\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext38 p23;}{\s39\ql \li0\ri0\sl300\slmult0\nowidctlpar\tx720\faauto\rin0\lin0\itap0 
+\fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext39 p24;}{\s40\qj \li0\ri0\sl300\slmult0\nowidctlpar\tx1120\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext40 p25;}{
+\s41\ql \li0\ri0\sl300\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext41 t26;}{\s42\qj \li0\ri0\sl320\slmult0\nowidctlpar\tx720\faauto\rin0\lin0\itap0 
+\fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext42 p27;}{\s43\ql \li0\ri0\sl320\slmult0\nowidctlpar\tx720\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext43 p29;}{
+\s44\qj \li7740\ri0\sl240\slmult0\nowidctlpar\tx9180\faauto\rin0\lin7740\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext44 p30;}{\s45\qj \fi-288\li720\ri0\sl320\slmult0\nowidctlpar\tx420\tx780\faauto\rin0\lin720\itap0 
+\fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext45 p31;}{\s46\ql \li7740\ri0\sl240\slmult0\nowidctlpar\tx9180\faauto\rin0\lin7740\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext46 p32;}{
+\s47\ql \fi-288\li720\ri0\sl320\slmult0\nowidctlpar\tx420\tx780\faauto\rin0\lin720\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext47 p33;}{\s48\qj \li1140\ri0\sl300\slmult0\nowidctlpar\tx300\faauto\rin0\lin1140\itap0 
+\fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext48 p34;}{\s49\qc \li0\ri0\sl240\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext49 c35;}{
+\s50\ql \li1300\ri0\sl240\slmult0\nowidctlpar\tx140\faauto\rin0\lin1300\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext50 p36;}{\s51\qc \li0\ri0\sl240\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 
+\fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext51 c37;}{\s52\ql \li0\ri0\sl180\slmult0\nowidctlpar\tx720\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext52 p38;}{
+\s53\qc \li0\ri0\sl240\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext53 c39;}{\s54\ql \li0\ri0\sl240\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 
+\fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext54 t40;}{\s55\ql \fi-288\li1152\ri0\sl300\slmult0\nowidctlpar\tx300\tx1340\faauto\rin0\lin1152\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext55 p41;}
+{\s56\qc \li0\ri0\sl240\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext56 c42;}{\s57\ql \li0\ri0\sl240\slmult0\nowidctlpar\tx720\faauto\rin0\lin0\itap0 
+\fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext57 p43;}{\s58\ql \fi-432\li1008\ri0\sl180\slmult0\nowidctlpar\tx460\faauto\rin0\lin1008\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext58 p44;}{
+\s59\ql \li0\ri0\sl240\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext59 t45;}{\s60\ql \li0\ri0\sl240\slmult0\nowidctlpar\tx720\faauto\rin0\lin0\itap0 
+\fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext60 p46;}{\s61\qc \li0\ri0\sl240\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext61 c47;}{
+\s62\ql \li0\ri0\sl240\slmult0\nowidctlpar\tx720\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext62 p48;}{\s63\qc \li0\ri0\sl240\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 
+\fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext63 c49;}{\s64\qc \li0\ri0\sl240\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext64 c50;}{
+\s65\qc \li0\ri0\sl240\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext65 c51;}{\s66\qc \li0\ri0\sl240\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 
+\fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext66 c52;}{\s67\ql \li540\ri0\sl240\slmult0\nowidctlpar\tx1980\faauto\rin0\lin540\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext67 p53;}{
+\s68\ql \li0\ri0\sl240\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext68 t54;}{\s69\ql \li1140\ri0\sl240\slmult0\nowidctlpar\tx300\faauto\rin0\lin1140\itap0 
+\fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext69 p55;}{\s70\ql \li0\ri0\sl240\slmult0\nowidctlpar\tx720\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext70 p56;}{
+\s71\ql \fi-864\li576\ri0\sl180\slmult0\nowidctlpar\tx920\faauto\rin0\lin576\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext71 p57;}{\s72\ql \li0\ri0\sl240\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 
+\fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext72 t58;}{\s73\ql \li0\ri0\sl240\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext73 t59;}{
+\s74\ql \li0\ri0\sl240\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext74 t60;}{\s75\qc \li0\ri0\nowidctlpar\tqc\tx4510\faauto\rin0\lin0\itap0 
+\b\fs24\ul\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext75 Title;}}{\*\listtable{\list\listtemplateid-837287012\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\leveltemplateid-1179720294\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981977\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979
+\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'03.;}{\levelnumbers\'01;}
+\fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3960\jclisttab\tx3960\lin3960 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'07.;}{\levelnumbers\'01;}\fi-360\li6120\jclisttab\tx6120\lin6120 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981979\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6840\jclisttab\tx6840\lin6840 }{\listname ;}\listid91318155}{\list\listtemplateid59828388\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid435334714\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981977\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979
+\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'03.;}{\levelnumbers\'01;}
+\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981979\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid318580676}{\list\listtemplateid-322117842\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid435334714\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981977\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979
+\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'03.;}{\levelnumbers\'01;}
+\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981979\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid420952114}{\list\listtemplateid733611028\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid435334714\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981977\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979
+\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'03.;}{\levelnumbers\'01;}
+\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981979\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid476726121}{\list\listtemplateid889079214\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid201981975\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981977\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979
+\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'03.;}{\levelnumbers\'01;}
+\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981979\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid500777245}{\list\listtemplateid-1135936604\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid435334714\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981977\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979
+\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'03.;}{\levelnumbers\'01;}
+\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981979\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid634330887}{\list\listtemplateid209853362\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid435334714\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981977\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979
+\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'03.;}{\levelnumbers\'01;}
+\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981979\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid914633056}{\list\listtemplateid2098521962\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid435334714\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981977\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979
+\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'03.;}{\levelnumbers\'01;}
+\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981979\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1018430917}{\list\listtemplateid718327732\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat5
+\levelspace0\levelindent0{\leveltext\leveltemplateid435334714\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981977\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979
+\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'03.;}{\levelnumbers\'01;}
+\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981979\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1092892265}{\list\listtemplateid-1533399584\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid435334714\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981977\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979
+\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'03.;}{\levelnumbers\'01;}
+\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981979\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1329868252}{\list\listtemplateid-51987102\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid435334714\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981977\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979
+\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'03.;}{\levelnumbers\'01;}
+\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981979\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1375539153}{\list\listtemplateid32249648\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid435334714\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981977\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979
+\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'03.;}{\levelnumbers\'01;}
+\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981979\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1547176783}{\list\listtemplateid839287060\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid201981975\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981977\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979
+\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'03.;}{\levelnumbers\'01;}
+\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981979\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1554583117}{\list\listtemplateid-801758200\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid435334714\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981977\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979
+\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'03.;}{\levelnumbers\'01;}
+\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981979\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1559706552}{\list\listtemplateid-1574566956\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid435334714\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981977\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979
+\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'03.;}{\levelnumbers\'01;}
+\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981979\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1585071977}{\list\listtemplateid-1985306426\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid435334714\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981977\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979
+\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'03.;}{\levelnumbers\'01;}
+\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981979\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1621689989}{\list\listtemplateid539555106\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid435334714\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\leveltemplateid-995319650\'02\'01);}{\levelnumbers\'01;}\fbias0 \fi-720\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid201981979\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967
+\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'04.;}{\levelnumbers\'01;}
+\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1631863542}{\list\listtemplateid767064714\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid435334714\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\leveltemplateid201981979\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967
+\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'04.;}{\levelnumbers\'01;}
+\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1717243276}{\list\listtemplateid785395664\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid435334714\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\leveltemplateid201981979\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967
+\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'04.;}{\levelnumbers\'01;}
+\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1720586337}{\list\listtemplateid-810235334\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0
+\leveljcn0\levelfollow0\levelstartat5\levelspace0\levelindent0{\leveltext\leveltemplateid435334714\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\leveltemplateid201981979\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967
+\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'04.;}{\levelnumbers\'01;}
+\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981967\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid201981977\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid201981979\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1722948153}}{\*\listoverridetable{\listoverride\listid1631863542\listoverridecount0\ls1}
+{\listoverride\listid318580676\listoverridecount0\ls2}{\listoverride\listid1092892265\listoverridecount0\ls3}{\listoverride\listid476726121\listoverridecount0\ls4}{\listoverride\listid1722948153\listoverridecount0\ls5}{\listoverride\listid1585071977
+\listoverridecount0\ls6}{\listoverride\listid420952114\listoverridecount0\ls7}{\listoverride\listid1329868252\listoverridecount0\ls8}{\listoverride\listid1717243276\listoverridecount0\ls9}{\listoverride\listid500777245\listoverridecount0\ls10}
+{\listoverride\listid1559706552\listoverridecount0\ls11}{\listoverride\listid1375539153\listoverridecount0\ls12}{\listoverride\listid1720586337\listoverridecount0\ls13}{\listoverride\listid1621689989\listoverridecount0\ls14}{\listoverride\listid914633056
+\listoverridecount0\ls15}{\listoverride\listid1547176783\listoverridecount0\ls16}{\listoverride\listid91318155\listoverridecount0\ls17}{\listoverride\listid1554583117\listoverridecount0\ls18}{\listoverride\listid634330887\listoverridecount0\ls19}
+{\listoverride\listid1018430917\listoverridecount0\ls20}}{\*\rsidtbl \rsid11889829}{\*\generator Microsoft Word 10.0.4524;}{\info{\title CAPITULO PRIMERO}{\author Julieta}{\operator Tutopia}{\creatim\yr2004\mo6\dy22\hr17\min2}
+{\revtim\yr2004\mo6\dy22\hr17\min2}{\version2}{\edmins0}{\nofpages13}{\nofwords6355}{\nofchars34958}{\*\company Sistemas BlondarK}{\nofcharsws41231}{\vern16475}}\paperw11920\paperh16800\margl1440\margr1460\margt1417\margb1417 
+\widowctrl\ftnbj\aenddoc\hyphhotz425\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale75\nolnhtadjtbl\rsidroot11889829 \fet0\sectd 
+\sbknone\linex0\headery1440\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}
+{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \s75\qc \li0\ri0\nowidctlpar\tqc\tx4510\faauto\rin0\lin0\itap0 
+\b\fs24\ul\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 {\insrsid11889829 CAPITULO PRIMERO
+\par }\pard\plain \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 {\insrsid11889829 
+\par 
+\par }\pard\plain \s1\qj \li0\ri0\keepn\nowidctlpar\faauto\outlinelevel0\rin0\lin0\itap0 \b\fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 {\insrsid11889829 Art\'edculo 1\'b0. CONSTITUCI\'d3N
+\par }\pard\plain \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 {\insrsid11889829 La Organizaci\'f3n Sindical estar\'e1
+ constituida por todos aquellos trabajadores con capacidad legal que deseen formar parte del mismo y que laboren en la instituci\'f3n, se constituye EL SINDICATO DE LOS TRABAJADORES DE LA FUNDACI\'d3N CENTRO NACIONAL PARA EL MEJORAMIENTO DE LA ENSE\'d1
+ANZA DE LA CIENCIA
+\par 
+\par }{\b\insrsid11889829 ART\'cdCULO 2\'b0. DENOMINACI\'d3N
+\par }{\insrsid11889829 La  Organizaci\'f3n  Sindical  se  denominar\'e1  EL  SINDICATO  DE  LOS TRABAJADORES DE LA FUNDACI\'d3N CENTRO NACIONAL PARA EL MEJORAMIENTO   DE   LA   ENSE\'d1ANZA   DE   LA   CIENCIA (SINTRACENAMEC)
+\par 
+\par }{\b\insrsid11889829 Articulo 3\'b0 DOMICILIO
+\par }{\insrsid11889829 La Organizaci\'f3n Sindical tendr\'e1 como domicilio la sede, ubicada en la esquina de Salas, Parroquia Altagracia, piso cinco (5) del Edificio Ministerio de Educaci\'f3n Cultura y Deporte, Caracas, y como \'e1mbito de actuaci\'f3n \'fa
+nicamente en el Distrito Capital.
+\par 
+\par }{\b\insrsid11889829 Articulo 4\'b0 OBJETO, ATRIBUCIONES Y FINALIDADES
+\par }{\insrsid11889829 La Organizaci\'f3n Sindical tiene como objeto el estudio, defensa, desarrollo y protecci\'f3n de los intereses profesionales o generales de los trabajadores y trabajadoras, as\'ed como el mejoramiento econ\'f3
+mico, social, moral y cultural de todos sus miembros. En Consecuci\'f3n de los objetivos anteriormente indicados, la asociaci\'f3n Sindical tendr\'e1 las siguientes atribuciones y finalidades:
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 a)\tab}}\pard \qj \fi-720\li1080\ri0\nowidctlpar\jclisttab\tx1080\faauto\ls1\rin0\lin1080\itap0 {\insrsid11889829 
+Proteger y defender los intereses profesionales o generales de sus miembros ante los organismos y autoridades p\'fablicas;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 b)\tab}Representar a sus afiliados en las negociaciones y conflictos colectivos de trabajo, y especialmente en los procedimientos de conciliaci\'f3n y arbitraje;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 c)\tab}Promover, negociar, celebrar, revisar y modificar convenciones colectivas de trabajo y exigir su cumplimiento;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 d)\tab}Representar y defender a sus miembros y a los trabajadores que lo soliciten, aunque 
+no sean miembros afiliados del Sindicato, en el ejercicio de sus intereses y derechos individuales en los procedimientos administrativos que se relaciones con el trab4jador, y, en los judiciales sin perjuicio del cumplimiento de los requisitos para la rep
+resentaci\'f3n; y, en sus relaciones con los patronos;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 e)\tab}Vigilar el cumplimiento de las normas destinadas a proteger a los trabajadores, especialmente, prevenci\'f3n, higiene y seguridad sociales. Las de prevenci\'f3
+n, condiciones y medio ambiente de trabajo, las de construcci\'f3n de viviendas para los trabajadores, las de creaci\'f3n y mantenimiento de servicios sociales y actividades sanas y de mejoramiento durante el tiempo libre;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 f)\tab}Ejercer especial vigilancia para el fiel cumplimiento de la normas dirigidas a garantizar la igualdad de oportunidades, as\'ed
+ como las normas protectoras de la maternidad y familia, menores y aprendices;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 g)\tab}Crear fondos de socorro y de ahorro y cooperativas, escuelas industriales o profesionales, bibliotecas populares y clubes destinados al deporte y a la recreaci\'f3
+n o al turismo. No obstante, para la organizaci\'f3n de cooperativas de producci\'f3n o servicios por trabajadores de  la empresa, se requerir\'e1 autorizaci\'f3n expresa de la misma, cuando se trate de producir mercanc\'edas o prestar servicios s
+emejantes a los que produzca o preste la empresa. La administraci\'f3n y funcionamiento de las cooperativas se regir\'e1 por las disposiciones pertinentes a ellas;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 h)\tab}Realizar estudios sobre las caracter\'edsticas de la rama profesional, industrial o comercial o de servicios, costos y niveles de vida, educaci\'f3
+n, aprendizaje y cultura; y, en general, todas aquellas \'e1reas que permitan promover el progreso social, econ\'f3mico y cultural de los miembros afiliados y presentar proposiciones a los poderes p\'fablicos para la realizaci\'f3n de dichos fines;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 i)\tab}Colaborar dentro de sus posibilidades con las autoridades, organismos e institutos p\'fablicos, en la preparaci\'f3n y ejecuci\'f3n de programas de mejoramiento social y cultural y en la capacitaci
+\'f3n t\'e9cnica y colocaci\'f3n de los trabajadores;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 j)\tab}Responder oportunamente a las consultas que le sean formuladas por las autoridades y proporcionar los informes que se les soliciten de conformidad con las Leyes;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 k)\tab}Realizar campanas permanentes en los centros de trabajo para concientizar a los trabajadores en la lucha activa contra la corrupci\'f3n, consumo y distribuci\'f3
+n de estupefacientes y sustancias psicotr\'f3picas y h\'e1bitos da\'f1inos para su salud f\'edsica y mental y para la sociedad;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 l)\tab}En general las que se\'f1alen sus estatutos o resuelvan sus afiliados para el mejor logro de sus objetivos.
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid11889829 
+\par }\pard\plain \s2\qc \li0\ri0\keepn\nowidctlpar\faauto\outlinelevel1\rin0\lin0\itap0 \b\fs24\ul\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 {\insrsid11889829 CAPITULO SEGUNDO
+\par }\pard\plain \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 {\insrsid11889829 
+\par }{\b\insrsid11889829 Art\'edculo 5\'b0. }{\insrsid11889829 Este Sindicato podr\'e1 unirse con cualquier otra organizaci\'f3n sindical para la defensa de una causa justa, mediante acuerdos, sin comprometer de forma alguna su independencia y autonom\'ed
+a absoluta y su libertad de acci\'f3n que siempre conservar\'e1, igualmente, podr\'e1 afiliarse o incorporarse a alguna Federaci\'f3n reserv\'e1ndose el derecho de separarse o desincorporarse cuando lo considere convenientes a sus intereses.
+\par }{\b\insrsid11889829 Art\'edculo 6\'b0}{\insrsid11889829 . Este Sindicato tendr\'e1 una duraci\'f3n permanente, siempre y cuando tenga por lo menos veinte (20) de afiliados en condici\'f3
+n de trabajadores activos, de conformidad con el Articulo 417 de la Ley Org\'e1nica del Trabajo.
+\par }{\b\insrsid11889829 Art\'edculo 7\'b0. }{\insrsid11889829 Este Sindicato, se constituye para representar y defender de manera aut\'e9
+ntica, genuina y amplia, los intereses y derechos generales o individuales de los trabajadores, a todo evento bajo ninguna circunstancia la organizaci\'f3n corno tal ente, podr\'e1 simpatizar, ser militante o activista, en su proselitismo, pol\'ed
+tico o religioso, conservando estrictamente en su funci\'f3n en la naturaleza de car\'e1cter Sindical, en defensa de los derechos de los trabajadores, sin menoscabo a los intereses de la empresa.
+\par 
+\par }\pard\plain \s3\qc \li0\ri0\keepn\nowidctlpar\faauto\outlinelevel2\rin0\lin0\itap0 \b\fs24\ul\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 {\insrsid11889829 CAPITULO TERCERO
+\par }\pard\plain \qc \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 {\b\ul\insrsid11889829 DE LOS MIEMBROS
+\par }\pard\plain \s15\qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 {\insrsid11889829 
+\par }\pard\plain \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 {\insrsid11889829 
+\par }{\b\insrsid11889829 Art\'edculo 8\'b0.}{\insrsid11889829  Podr\'e1n ser miembros dcl Sindicato todos los trabajadores que cumplan estos estatutos y la Ley Org\'e1
+nica del Trabajo, y presten sus servicios activos para la empresa. Quienes deseen incorporarse al Sindicato, deber\'e1n formular por escrito su solicitud y manifestar su voluntad de permanecer en la Organizaci\'f3n Sindical, adem\'e1
+s de gozar de buena conducta y aportar una cantidad equivalente al uno por ciento (1%) del salario mensual del trabajador.
+\par }{\b\insrsid11889829 Art\'edculo 9\'b0. }{\insrsid11889829 Para ingresar al Sindicato es necesario dirigir a la Junta Dir
+ectiva del mismo, una solicitud escrita manifestando la voluntad de afiliarse, debidamente formulada por el solicitante y dos (2) miembros ya asociados como aval.
+\par 
+\par }{\b\insrsid11889829 Art\'edculo 10\'b0.}{\insrsid11889829  La Junta Directiva responder\'e1 por escrito a toda solicitud de afiliaci\'f3n, en un plazo no mayor de quince (15) d\'edas continuos contados a partir del d\'ed
+a siguiente a la fecha de la solicitud, todo ello en acatamiento dc los establecido en el Art\'edculo 447 de la Ley Org\'e1nica del Trabajo.
+\par }{\b\insrsid11889829 Art\'edculo 11.- }{\insrsid11889829 Pueden formar parte del Sindicato, y participar en la direcci\'f3n y administraci\'f3n del mismo, todos aquellos trabajadores que hubieren cumplido dieciocho (18) a\'f1
+os y los menores de dieciocho (18) a\'f1os, pero mayores dc catorce (14) a\'f1os, seg\'fan lo previsto en los Art\'edculos 84, 100 y 101 de la Ley Org\'e1nica para la Protecci\'f3n del Ni\'f1
+o y del Adolescente (LOPNA), en concordancia con lo establecido en el Art\'edculo 78 de la Constituci\'f3n de la Rep\'fablica Bolivariana de Venezuela. Con relaci\'f3n a los extranjeros, para formar parte dc la Junta Directiva y ej
+ercer cargos de representaci\'f3n sin di <tal, deber\'e1n tener m\'e1s de diez (10) a\'f1os de residencia en el Pa\'eds, previa autorizaci\'f3n del Ministerio del ramo.
+\par }{\b\insrsid11889829 Art\'edculo 12. }{\insrsid11889829 Por el solo hecho de solicitar el ingreso al Sindicato, se entiende que el solicitante acepta en su integridad los presentes estatutos, dc ser admitido como miembro y queda sujeto a ello.
+\par }{\b\insrsid11889829 Art\'edculo 13.- }{\insrsid11889829 Son deberes de los miembros asociados:
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 a)\tab}}\pard \qj \fi-720\li1080\ri0\nowidctlpar\jclisttab\tx1080\faauto\ls2\rin0\lin1080\itap0 {\insrsid11889829 Cumplir con los presentes estatutos y la Ley Org\'e1
+nica del Trabajo y su Reglamento, los acuerdos y resoluciones que emanen de las asambleas y de la Junta Directiva dc la Organizaci\'f3n Sindical;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 b)\tab}Asistir con puntualidad a todas las reuniones y asambleas para las cuales frieron convocados;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 c)\tab}Pagar con puntualidad las cuotas sindicales ordinarias y extraordinarias que determine la asamblea y Estatutos;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 d)\tab}Cumplir con todas las tareas que le fueren solicitadas por la asamblea general de miembros asociados o por la Junta Directiva;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 e)\tab}Observar una conducta c\'f3nsona con los intereses generales de los trabajadores, luchar por su unidad, dignidad y condenar todo divisionismo;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 f)\tab}No divulgar los asuntos internos de la organizaci\'f3n sindical;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 g)\tab}Colaborar con todos los medios a su alcance con la Asociaci\'f3n Sindical en la conquista de sus objetivos y defensa de los intereses de los trabajadores; y,
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 h)\tab}Comunicar a la Secretar\'eda de Organizaci\'f3n y Reclamos los cambios de domicilio.
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid11889829 
+\par }{\b\insrsid11889829 Art\'edculo 14.- }{\insrsid11889829 Son derechos de los miembros de la Organizaci\'f3n Sindical:
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 a)\tab}}\pard \qj \fi-720\li1080\ri0\nowidctlpar\jclisttab\tx1080\faauto\ls4\rin0\lin1080\itap0 {\insrsid11889829 Ser amparado por la Asociaci\'f3
+n Sindical y gozar de todos los beneficios que conquiste el Sindicato;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 b)\tab}Intervenir en las deliberaciones de las asambleas generales, con derecho a voz y voto;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 e)\tab}}\pard \qj \fi-720\li1080\ri0\nowidctlpar\jclisttab\tx1080\faauto\ls5\rin0\lin1080\itap0 {\insrsid11889829 Elegir y ser elegido para integrar la Junta Directiva, Tribunal Disciplinario y Comisiones q
+ue se nombren, salvo las restricciones contempladas en estos Estatutos y en la Ley Org\'e1nica del Trabajo, en su Articulo 404;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 c)\tab}}\pard \qj \fi-720\li1080\ri0\nowidctlpar\jclisttab\tx1080\faauto\ls4\rin0\lin1080\itap0 {\insrsid11889829 Ser representado, asistido y asesorado por la Junta Directiva en los asuntos de su inter\'e9
+s, y en cuanto lo permitan estos Estatutos y las Leyes Vigentes, especialmente en asuntos de procedimientos laborales ante las respectivas Inspector\'edas del Trabajo.
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 d)\tab}Ser escogido por la Junta Directiva para representar a la Organizaci\'f3n Sindical en actos p\'fablicos, reuniones y eventos de Federaciones y Confederaciones;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 e)\tab}Defenderse ante las asambleas, los organismos disciplinarios o ante la Junta Directiva cuando sea objeto de acusaciones o investigaciones;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 f)\tab}Desafiliarse voluntariamente cuando as\'ed lo desee;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 g)\tab}Tendr\'e1 adem\'e1s los derechos que a tal efecto le acuerden los presentes Estatutos y las disposiciones legales y reglamentarias que le fueren aplicables.
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid11889829 
+\par }{\b\insrsid11889829 Art\'edculo 15. }{\insrsid11889829 La condici\'f3n de ser miembro asociado se pierde cuando ocurra uno de los siguientes supuestos:
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 a)\tab}}\pard \qj \fi-720\li1080\ri0\nowidctlpar\jclisttab\tx1080\faauto\ls6\rin0\lin1080\itap0 {\insrsid11889829 Por renuncia escrita expresa del asociado o emitir su decisi\'f3n p\'fa
+blicamente en la realizaci\'f3n de la asamblea general;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 b)\tab}Por hacerse indigno de pertenecer al Sindicato por no cumplir con sus obligaciones y acuerdos seg\'fan el Art\'edculo 13 de estos Estatutos;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 c)\tab}Por realizar actos contrarios a los intereses de la Organizaci\'f3n Sindical, y a los justos derechos e intereses de los miembros del mismo;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 d)\tab}Por participar o actuar en actos inmorales que atenten contra las buenas costumbres o la familia, o en detrimento dc la imagen de la empresa;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 e)\tab}Por no ejercer las atribuciones que le fueran conferidas por la Junta Directiva y las asambleas de miembros;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 f)\tab}Por apropiarse dc bienes del Sindicato;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 g)\tab}Por ingresar a otro Sindicato dentro de la empresa con igual objeto.
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid11889829 
+\par }{\b\insrsid11889829 Art\'edculo 16.- }{\insrsid11889829 En el supuesto que alg\'fan miembro incurriere en alguna o algunas de las causas indicadas en el art\'edculo anterior, a excepci\'f3n de las indicadas en el literal a), \'e9ste ser\'e1
+ inmediatamente sometido a investigaci\'f3n por el Tribunal Disciplinario, quien despu\'e9s de analizar el caso planteado, y o\'edr al investigado, decidir\'e1 si procede o no la separaci\'f3n del miembro asociado.
+\par 
+\par }{\b\insrsid11889829 Art\'edculo 17.- }{\insrsid11889829 Todo miembro saliente, sea cual friere la causa de su separaci\'f3n, le pone t\'e9rmino a toda relaci\'f3n de hecho y de derecho con la Asociaci\'f3n Sindical y en consecuencia, no podr\'e1
+ hacer valer respecto a \'e9l, ning\'fan derecho a\'fan cuando \'e9ste hubiere creado instituciones de car\'e1cter social.
+\par 
+\par }\pard \qc \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\ul\insrsid11889829 CAPITULO CUARTO
+\par DE LA JUNTA DIRECTIVA
+\par }\pard\plain \s15\qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 {\insrsid11889829 
+\par }\pard\plain \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 {\b\insrsid11889829 Art\'edculo 18.-}{\insrsid11889829  La Asociaci\'f3n Sindical ser\'e1
+ dirigida y administrada por una Junta Directiva integrada por cinco (5) miembros principales y dos (2) vocales, siendo todos elegidos por la asamblea general de miembros asociados, bas\'e1ndose para ello en principios democr\'e1ticos. La elecci\'f3
+n de los miembros se har\'e1 mediante el sufragio universal, directo y secreto. Los miembros dc la Junta Directiva durar\'e1n tres (3) a\'f1os, pudiendo ser reelegidos una sola vez para el per\'edodo siguiente, y deber\'e1n esperar un per\'ed
+odo para poder postularse de nuevo, en aplicaci\'f3n con el principio de alternabilidad consagrado en el Art\'edculo 95 de la Constituci\'f3n de la Rep\'fablica Bolivariana de Venezuela. Los miembros de la Junta Directiva estar\'e1
+n obligados a hacer declaraci\'f3n jurada de bienes.
+\par }{\b\insrsid11889829 Art\'edculo 19.- }{\insrsid11889829 Los cinco (5) miembros principales de la Junta Directiva de la Organizaci\'f3n      Sindical gozar\'e1n del fuero sindical a que se refiere el Art\'edculo 451 de la Ley Org\'e1
+nica del Trabajo el lapso de duraci\'f3n de ese fuero ser\'e1 desde la fecha de su elecci\'f3n, y el mismo se extender\'e1 hasta tres (3) meses despu\'e9s de vencido el tiempo para el cual fueron electos o revocado su nombramiento.
+\par }{\b\insrsid11889829 Art\'edculo 20.- }{\insrsid11889829 La junta directiva dc la organizaci\'f3n sindical estar\'e1 integrada as\'ed: (1) Secretario de General, un (1) Secretario de organizaci\'f3n y reclamos,
+ un (1) Secretario de cultura, propaganda, deporte y recreaci\'f3n; un (1) Secretario de actas y correspondencia, un (1) Secretario de finanzas, y dos (2) Vocales que llenar\'e1n las faltas absolutas o temporales de los principales de la junta directiva.
+
+\par }{\b\insrsid11889829 Art\'edculo 21.- }{\insrsid11889829 La Junta Directiva deber\'e1 reunirse por lo menos una vez cada treinta (30) d\'edas, con el objeto de considerar todos los asuntos que le sean planteados. De cada reuni\'f3
+n de la Junta Directiva se levantar\'e1 un Acta, en la cual se indicar\'e1 la fecha de reuni\'f3n, lugar de celebraci\'f3n, as\'ed como un extracto de las deliberaciones efectuadas y de los acuerdos tomados, la referida acta ser\'e1
+ firmada por el Secretario de General y el Secretario dc actas y Correspondencias. El qu\'f3rum reglamentario para instalar  las reuniones de junta directiva ser\'e1 la mitad m\'e1s uno de sus miembros. Y las decisiones se tomar\'e1
+n por el voto favorable de la mitad m\'e1s uno de los presentes.
+\par }{\b\insrsid11889829 Art\'edculo 22.-}{\insrsid11889829   La Junta Directiva actuar\'e1 en nombre y representaci\'f3n de la Asociaci\'f3n Sindical, es decir, comprometer\'e1 la Organizaci\'f3n Sindical como tal ente o persona jur\'eddica, y velar\'e1
+ por el fiel cumplimiento de las disposiciones de la Ley Org\'e1nica dcl Trabajo, de estos Estatutos, de las convenciones colectivas de trabajo y las dem\'e1s normas aplicables a las relaciones de trabajo, est\'e1
+ obligada a cumplir y hacer cumplir las decisiones y acuerdos de las asambleas y las suyas propias, en general tiene a su cargo hacer todo lo posible a los fines de alcanzar los objetivos fundamentales perseguidos por la Asociaci\'f3n Sindical.
+\par }{\b\insrsid11889829 Art\'edculo 23.- }{\insrsid11889829 Los miembros de la Junta Directiva son personal y colectivamente responsables del estricto cumplimiento de sus obligaciones frente a la asamblea de miembros asociados, en consecuencia, \'e9stos \'fa
+ltimos pueden, llenando siempre los requisitos estatutarios y legales, revocarle el nombramiento a los miembros de la Junta Directiva o a alguno de ellos, por las causales establecidas en el Art\'edculo 448 dc la Ley Org\'e1
+nica del Trabajo, y las causas previstas en el art\'edculo 15 de estos estatutos.
+\par }{\b\insrsid11889829 Art\'edculo 24.- }{\insrsid11889829 Para ser miembro de la Junta Directiva de la Asociaci\'f3n Sindical se requiere llenar los requisitos siguientes:
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 a)\tab}}\pard \qj \fi-720\li1080\ri0\nowidctlpar\jclisttab\tx1080\faauto\ls7\rin0\lin1080\itap0 {\insrsid11889829 Ser mayor de dieciocho (18) a\'f1os. Los menores de dieciocho (18) a\'f1
+os, pero mayores dc catorce (14) a\'f1os, seg\'fan lo previsto en los Art\'edculos 84, 100 y 101 de la Ley Org\'e1nica para la Protecci\'f3n del Ni\'f1o y del Adolescente (LOPNA);
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 b)\tab}Ser miembro activo de la Asociaci\'f3n Sindical y estar solvente en sus cotizaciones.
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 c)\tab}Ser venezolano, y por v\'eda de excepci\'f3n el extranjero podr\'e1 ser miembro de la Junta Directiva, previo cumplimiento de lo estipulado en el Par\'e1grafo \'danico del Art\'ed
+culo 404 de la Ley Org\'e1nica del Trabajo; y,
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 d)\tab}No haber sido sancionado por el tribunal Disciplinario.
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid11889829 
+\par }{\b\insrsid11889829 Art\'edculo 25.- }{\insrsid11889829 Son atribuciones de la Junta Directiva:
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 a)\tab}}\pard \qj \fi-720\li1080\ri0\nowidctlpar\jclisttab\tx1080\faauto\ls8\rin0\lin1080\itap0 {\insrsid11889829 
+Cumplir y hacer cumplir todo lo dispuesto en los presentes Estatutos, los acuerdos y resoluciones emanados en las Asambleas Generales Ordinarias y Extraordinarias, as\'ed como hacer que cada miembro le d\'e9 cabal cumplimiento a los estatutos, acuerdos 
+y resoluciones mencionados;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 b)\tab}Realizar todas las gestiones que fueren necesarias para lograr soluciones favorables, a los problemas de trabajo que afecten a los miembros asociados, as\'ed como soluciones m\'e1
+s favorables a los conflictos colectivos que se pudieran presentar;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 c)\tab}Hacer todo cuanto est\'e9 a su alcance para el logro de los mejores beneficios para los miembros asociados, mediante la celebraci\'f3n de convenciones colectivas de trabajo;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 d)\tab}Realizar las afiliaciones de nuevos miembros siempre y cuando \'e9stos cumplan con los requisitos exigidos para pertenecer al Sindicato;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 e)\tab}Efectuar las respectivas convocatorias para las asambleas ya sean de car\'e1cter ordinario o extraordinario, por \'f3rgano del Secretario de General conjuntamente con el Secretario de Organizaci\'f3
+n y Reclamo, y Secretario de Actas y Correspondencias;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 f)\tab}Designar y remover con entera libertad los servicios profesionales externos, los cuales se manejar\'e1n en este \'faltimo caso, siempre mediante la figura dc honorarios profesionales, y por ning\'fa
+n respecto ser\'e1 empleado del Sindicato, quien cumplir\'e1 con las condiciones acordadas en el contrato que al efecto se suscriba, dichos nombramientos los decidir\'e1n conjuntamente, el Secretario de General y el Secretario de Finanzas;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 g)\tab}Presentar a la asamblea ordinaria de miembros cada vez que \'e9sta se re\'fana, por \'f3rgano del Secretario de Finanzas, una relaci\'f3n detallada de los ingresos y egresos de la Asociaci\'f3
+n Sindical con sus respectivos soportes;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 h)\tab}Remitir a la Inspector\'eda del Trabajo correspondiente, copia de la relaci\'f3n o informes a que se refiere el literal anterior dentro de los quince (15) d\'edas siguientes de la presentaci\'f3
+n en asamblea, otra copia debe ser colocada en sitio visible para que la puedan examinar los afiliados a la Asociaci\'f3n Sindical por lo menos durante tres (3) horas diaria, que no sean horas laborables de la mayor\'ed
+a de los miembros del Sindicato, desde quince (15) d\'edas antes de la fecha en que deba ser presentada a la asamblea correspondiente;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 i)\tab}Nombrar comisiones, asesor t\'e9cnico o laboral, que considere necesarios, as\'ed como el Tribunal Disciplinario;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 j)\tab}Suministrar a los funcionarios competentes del trabajo las informaciones que le fueran solicitadas con relaci\'f3n a sus obligaciones legales;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 k)\tab}Comunicar al Inspector del Trabajo, dentro de los diez (10) d\'edas h\'e1biles siguientes, las modificaciones introducidas en los estatutos y acompa\'f1ar copias aut\'e9
+nticas de los documentos correspondientes;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 l)\tab}Tendr\'e1 adem\'e1s todas las atribuciones que le confiera estos estatutos, la Ley Org\'e1nica del Trabajo y su Reglamento.
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid11889829 
+\par }{\b\insrsid11889829 Art\'edculo 26.- }{\insrsid11889829 Son atribuciones del Secretario General:
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 a)\tab}}\pard \qj \fi-720\li1080\ri0\nowidctlpar\jclisttab\tx1080\faauto\ls9\rin0\lin1080\itap0 {\insrsid11889829 Ejercer la representaci\'f3n de la Asociaci\'f3
+n Sindical ante otras Organizaciones Sindicales, Federaciones y Confederaciones Sindicales y ante cualquier autoridad p\'fablica o privada, sea judicial o administrativa, y en fin ante cualquier tercero;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 b)\tab}Convocar y presidir las reuniones dc la Junta Directiva;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 c)\tab}Convocar y presidir, conjuntamente con el Secretario de Organizaci\'f3n y Reclamo, y Secretario dc Actas y Correspondencias, las asambleas generales ordinarias y extraordinarias;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 d)\tab}Vigilar el cabal cumplimiento de los presentes estatutos, los acuerdos de las asambleas y las resoluciones de la Junta Directiva;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 e)\tab}Velar por una sana administraci\'f3n y el buen funcionamiento de la Asociaci\'f3n Sindical;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 f)\tab}Controlar, supervisar y respaldar el trabajo de todos los Secretarios integrantes de la Junta Directiva;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 g)\tab}Suscribir conjuntamente con el Secretario de Actas y Correspondencias, las Actas tanto de las reuniones de la Junta Directiva como de las Asambleas Generales, Ordinarias y Extraordinarias;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 h)\tab}Abrir, cerrar y movilizar las cuentas bancarias, conjuntamente con el Secretario de Finanzas y con el Secretario de Organizaci\'f3n y Reclamo, y firmar los cheques y todas las \'f3rdenes 
+de pago que emita la Asociaci\'f3n Sindical;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 i)\tab}Firmar conjuntamente con el Secretario de Organizaci\'f3n y Reclamo las credenciales o carnet de los miembros de la Asociaci\'f3n Sindical;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 j)\tab}Redactar toda la correspondencia de la Organizaci\'f3n Sindical que se apruebe en las reuniones de la Junta Directiva y firmar\'ed
+as conjuntamente con el Secretario dc Actas y Correspondencias y Secretario de Organizaci\'f3n y Reclamos;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 k)\tab}Suministrar conjuntamente con el Secretario de Organizaci\'f3n y Reclamos a la Inspector\'eda del Trabajo
+ competente, todas las informaciones que fueren necesarias y requeridas de acuerdo a lo estipulado en esas estatutos y muy en especial en lo dispuesto en el Art\'edculo 430 dc la Ley Org\'e1nica dcl Trabajo;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 l)\tab}Las dem\'e1s actuaciones que le sean encomendadas por las asambleas.
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid11889829 
+\par }{\b\insrsid11889829 Art\'edculo 27.- }{\insrsid11889829 Son atribuciones del Secretario de Organizaci\'f3n:
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 a)\tab}}\pard \qj \fi-360\li720\ri0\nowidctlpar\jclisttab\tx720\faauto\ls10\rin0\lin720\itap0 {\insrsid11889829 Abrir,}{\dn6\insrsid11889829  }{\insrsid11889829 
+cerrar y movilizar las cuentas bancarias, conjuntamente con el Secretario dc General y con el Secretario de Finanzas y firmar los cheques y todas las \'f3rdenes de pago que emita la Asociaci\'f3n Sindical;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 b)\tab}Firmar conjuntamente con el Secretario de General, para las credenciales o carnet de los miembros de la Asociaci\'f3n Sindical;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 c)\tab}Organizar el funcionamiento de la Asociaci\'f3n Sindical;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 d)\tab}Suministrar conjuntamente con el Secretario de General a la Inspector\'ed
+a dcl Trabajo competente, todas las informaciones que fueren necesarias y requeridas de acuerdo a lo estipulado en estos estatutos y muy en especial en lo dispuesto en el Art\'edculo 430 de la Ley Org\'e1nica del Trabajo;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 e)\tab}Elaborar y llevar un control estad\'edstico de todos los miembros dcl Sindicato con indicaci\'f3n precisa de las especificaciones a que hace referencia el Art\'edculo 424 de la Ley Org\'e1
+nica del Trabajo; y, dejando en el mismo constancia de los motivos de retiro de alg\'fan afiliado;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 f)\tab}Cumplir y hacer cumplir las disposiciones de las asambleas y de los presentes estatutos;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 g)\tab}Atender y evacuar en el menor tiempo posible las consultas que sobre asuntos relacionados con el trabajo, convenciones colectivas de trabajo y la Ley Org\'e1
+nica del Trabajo, le formulen los miembros de la Asociaci\'f3n Sindical u otro trabajador;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 h)\tab}Gestionar la soluci\'f3n favorable de los conflictos de trabajo en que sean parte los miembros asociados de la Asociaci\'f3n Sindical;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 i)\tab}Solicitar la intervenci\'f3n de las Autoridades Administrativas dcl Trabajo en los casos de violaciones de la Ley Org\'e1nica del Trabajo, su Reglamento y las Convenciones Colectivas de Trabajo;
+
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 j)\tab}Asistir y representar a los miembros de la Asociaci\'f3n Sindical individual o colectivamente en todos los asuntos que le puedan ocurrir por ante los \'d3
+rganos Administrativos del Trabajo, Institutos Aut\'f3nomos y Corporaciones de car\'e1cter p\'fablico o privado y para ante cualesquiera personas jur\'eddicas p\'fablicas o privadas;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 k)\tab}Asistir y representar a los miembros de la Organizaci\'f3n Sindical a la elaboraci\'f3n y discusi\'f3n de convenciones colectivas de trabajo y en todas las reclamaciones y asuntos de car\'e1
+cter laboral ante cualquier Organismo Administrativo del Trabajo.
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 l)\tab}Redactar toda la correspondencia de la Organizaci\'f3n Sindical que se apruebe en las reuniones de la Junta Directiva y firmar\'ed
+as conjuntamente con el Secretario de Actas y Correspondencias y Secretario de Organizaci\'f3n y Reclamos.
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 m)\tab}Convocar y presidir conjuntamente con el Secretario General y Secretario de Actas  y  Correspondencias,  las  asambleas  generales  ordinarias  y extraordinarias.
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid11889829 
+\par }{\b\insrsid11889829 Art\'edculo 28.- }{\insrsid11889829 Son atribuciones del Secretario de Finanzas:
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 a)\tab}}\pard \qj \fi-720\li1080\ri0\nowidctlpar\jclisttab\tx1080\faauto\ls11\rin0\lin1080\itap0 {\insrsid11889829 Recibir las cuotas ordinarias y extraordinarias de los miembros de la Asociaci\'f3
+n Sindical y cualquier otra cantidad que ingrese a las finanzas del Sindicato, y firmar conjuntamente las cuentas bancarias }{\i\insrsid11889829 u }{\insrsid11889829 
+otros efectos bancarios o mercantiles con el Secretario de General y con el Secretario de Organizaci\'f3n;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 b)\tab}Abrir, cerrar y movilizar las cuentas bancarias, conjuntamente con el Secretario General y el Secretario de Organizaci\'f3n y Reclamo, y firmar los cheques y todas las \'f3
+rdenes de pago que emita la asociaci\'f3n sindical.
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 c)\tab}Administrar de la forma m\'e1s escrupulosa y transparente los Fondos de la Asociaci\'f3n Sindical;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 d)\tab}Llevar la contabilidad de la Asociaci\'f3n Sindical, a tal efecto se abrir\'e1
+ un libro de ingresos y egresos diarios, un libro de inventario, un libro de balance general y un archivo de comprobantes de caja y dem\'e1s documentos relacionados con las finanzas del Sindicato;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 e)\tab}Realizar la notificaci\'f3n formal a los afiliados del monto de las cuotas extraordinarias, cuando las mismas hayan sido aprobadas por la asamblea extraordinaria, as\'ed como hacer del con
+ocimiento a los nuevos afiliados del monto de la cuota ordinaria;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 f)\tab}Presentar a la Junta Directiva, dentro de los seis (6) primeros meses de cada a\'f1o, un informe sobre las cuentas de administraci\'f3n, con indicaci\'f3n del n\'famero de miembros afiliados durante 
+el per\'edodo anterior y el n\'famero dc cuotas ordinarias o extraordinarias aportadas y un informe pormenorizado de la situaci\'f3n Financiera, con la cuenta detallada y balance de los fondos de la Asociaci\'f3n Sindical, para su presentaci\'f3
+n posterior a la asamblea ordinaria, a los fines de que se pueda cumplir con lo estipulado en el Art\'edculo 441 de la Ley Org\'e1nica del Trabajo. Copia de este informe ser\'e1 colocada en la cartelera de la Organizaci\'f3n Sindical con quince (15) d\'ed
+as de anticipaci\'f3n a la celebraci\'f3n de dicha asamblea.
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid11889829 
+\par }{\b\insrsid11889829 Art\'edculo 29.- }{\insrsid11889829 Son atribuciones dcl Secretario de Actas y Correspondencia:
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 a)\tab}}\pard \qj \fi-720\li1080\ri0\nowidctlpar\jclisttab\tx1080\faauto\ls12\rin0\lin1080\itap0 {\insrsid11889829 Redactar, asentar en el libro y firmar en uni\'f3
+n del Secretario de General las actas de las asambleas ordinarias y extraordinarias, y de las reuniones de la Junta Directiva una vez aprobadas;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 b)\tab}Dar lectura, en las asambleas y en las Juntas Directivas, a las Actas de las asambleas anteriores;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 c)\tab}Dar lectura en las reuniones de la Junta Directiva, a las correspondencias de otras Organizaciones Sindicales, Entidades o personas;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 d)\tab}Redactar toda la correspondencia de la Organizaci\'f3n Sindical que se apruebe en las reuniones de la Junta Directiva y firmar\'ed
+as conjuntamente con el Secretario dc General y Secretario de Organizaci\'f3n
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 e)\tab}Mantener comunicaci\'f3n frecuente e intercambio de ideas con  otras Organizaciones Sindicales.
+\par }\pard \qj \li360\ri0\nowidctlpar\faauto\rin0\lin360\itap0 {\insrsid11889829 
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\insrsid11889829 Art\'edculo 30.- }{\insrsid11889829 Son atribuciones del Secretario de cultura, propaganda, deporte y recreaci\'f3n:
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 a)\tab}}\pard \qj \fi-720\li1080\ri0\nowidctlpar\jclisttab\tx1080\faauto\ls13\rin0\lin1080\itap0 {\insrsid11889829 
+Preparar y llevar a cabo toda propaganda que crea Conveniente pava los trabajadores, destacando todas las ventajas y conveniencias que se derivan de pertenecer a la Organizaci\'f3n sindical;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 b)\tab}Organizar cursillos educacionales o escuelas, con el fin de elevar el nivel cultural de los afiliados;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 c)\tab}Presidir las reuniones y coordinar las labores dc cultura, deporto y recreaci\'f3n con las que realizar\'e1 todo el trabajo cultural, social, propagand\'ed
+stico, etc, y las gestiones propias de la secretar\'eda, as\'ed como tambi\'e9n gestionar las donaciones por parte de la empresa de un aporte fijo para la activaci\'f3n dc las actividades deportivas;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 d)\tab}Preparar la presentaci\'f3n dc personas suficientemente capaces en dictar charlas sobre t\'f3picos diversos especialmente sobre los que interesan a sus afiliados, para su capacitaci\'f3
+n profesional y sindical;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 e)\tab}Fomentar dentro de los afiliados la formaci\'f3n de equipos deportivos de diversas \'edndoles, seg\'fan la inclinaci\'f3
+n de los mismos, concertar con otras organizaciones sindicales o no, torneos por cada disciplina deportiva.
+\par }\pard \qj \li360\ri0\nowidctlpar\faauto\rin0\lin360\itap0 {\insrsid11889829 
+\par }\pard \qc \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\ul\insrsid11889829 CAPITULO V
+\par DE LAS ASAMBLEAS GENERALES
+\par }\pard\plain \s15\qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 {\insrsid11889829 
+\par }\pard\plain \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 {\b\insrsid11889829 Art\'edculo 31.- }{\insrsid11889829 La suprema autoridad de la Asociaci\'f3
+n Sindical reside en la asamblea general de los miembros asociados, constituida legalmente y con arreglo a lo estipulado en estos estatutos y en la Ley Org\'e1nica del Trabajo.
+\par }{\b\insrsid11889829 Art\'edculo 32.- }{\insrsid11889829 Las asambleas general de miembros, podr\'e1n ser: Ordinarias o Extraordinarias. Las ordinarias se celebrar\'e1n dentro de los seis (6) primeros meses de cada a\'f1
+o, y las extraordinarias en cualquier fecha del a\'f1o, cuando las circunstancias as\'ed lo requieran y para tratar cuestiones de urgencia.
+\par }{\b\insrsid11889829 Art\'edculo 33.-}{\insrsid11889829  Las asambleas generales de miembros, tanto ordinarias corno extraordinarias, ser\'e1n convocadas por el Secretario de General, Secretario de Organizaci\'f3
+n y Secretario de Actas y Correspondencias. Las asambleas generales extraordinarias podr\'e1n ser convocadas cuando as\'ed lo solicite la Junta Directiva o cuando as\'ed lo soliciten a \'e9
+sta, por lo menos, el cincuenta por ciento (50%) del total de los miembros asociados. En este \'faltimo caso, los miembros la Junta Directiva designados deber\'e1n convocar a la asamblea general extraordinaria dentro de los dos (02) d\'edas h\'e1
+biles siguientes a la fecha de haberse recibido la correspondiente solicitud.
+\par }{\b\insrsid11889829 Art\'edculo 34.- }{\insrsid11889829 Las asambleas generales de miembros ordinarias, se convocar\'e1n con cinco (5) d\'edas h\'e1biles de anticipaci\'f3n, por lo menos a la fecha de su celebraci\'f3n. La convocatoria podr\'e1
+ hacerse por la prensa. por notificaci\'f3n personal o por circular colocadas en las carteleras de las sedes de las empresas. En la convocatoria se indicar\'e1 el sitio, hora y fecha, y los puntos a tratar. As\'ed
+ mismo la asamblea extraordinaria se convocar\'e1 con cuarenta y ocho (48) horas de anticipaci\'f3n.
+\par }{\b\insrsid11889829 Art\'edculo 35.- }{\insrsid11889829 En cada asamblea general de miembros asociados, s\'f3lo se tratar\'e1n los asuntos para la cual fue convocada.
+\par }{\b\insrsid11889829 Art\'edculo 36.- }{\insrsid11889829 Para que las asambleas generales de miembros se consideren v\'e1lidamente constituidas se requiere que est\'e9n presentes en ellas la mitad m\'e1
+s uno de los miembros asociados. Si no se obtiene este qu\'f3rum, podr\'e1 convocarse a una segunda reuni\'f3n, para ese mismo d\'eda, la cual se constituir\'e1 con el n\'fa
+mero de miembros que concurran, siempre que no sea menor al veinte por ciento (20%) del total de miembros afiliados a la Asociaci\'f3n Sindical, todo de acuerdo al art\'edculo 431 de la Ley Org\'e1nica del Trabajo.
+\par }{\b\insrsid11889829 Art\'edculo 37.- }{\insrsid11889829 Para la validez de las resoluciones. acuerdos y decisiones tomadas en las asambleas generales, es necesario cumplir estrictamente con los requisitos siguientes:
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 a)\tab}}\pard \qj \fi-720\li1080\ri0\nowidctlpar\jclisttab\tx1080\faauto\ls14\rin0\lin1080\itap0 {\insrsid11889829 Que las resoluciones, acuerdos y decisiones sean aprobadas, por la mitad m\'e1
+s uno de los miembros presentes.
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 b)\tab}Que las asambleas hayan sido convocadas con las formalidades establecidas en estos estatutos y que cumplan las normas de orden p\'fablico contenidas en el Articulo 431 de la Ley Org\'e1
+nica del Trabajo en todo lo que no estuviere expresamente previsto en estos estatutos.
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid11889829 
+\par }{\b\insrsid11889829 Art\'edculo 38.- }{\insrsid11889829 De cada asamblea general de miembros, tanto ordinaria como extraordinaria, se levantar\'e1 la correspondiente acta, la cual deber\'e1
+ estar firmada por el Secretario General y el Secretario de Actas y Correspondencias, a los efectos de su autenticidad. Dicha acta deber\'e1 expresar el n\'fa
+mero de miembros concurrentes a la asamblea, un extracto de las deliberaciones y el texto de las decisiones aprobadas, as\'ed como las firmas de todos los asistentes.
+\par }{\b\insrsid11889829 Art\'edculo 39.- }{\insrsid11889829 Cada miembro podr\'e1 intervenir s\'f3lo dos (2) veces sobre una misma proposici\'f3n, el autor de la misma podr\'e1 hacerlo hasta tres (3) veces, siempre y cuando la tercera intervenci\'f3
+n sea al final del debate y s\'f3lo para responder a los argumentos que se hubiere expuesto.
+\par }{\b\insrsid11889829 Art\'edculo 40.- }{\insrsid11889829 La asamblea general de miembros tiene por objeto:
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 a)\tab}}\pard \qj \fi-720\li1080\ri0\nowidctlpar\jclisttab\tx1080\faauto\ls15\rin0\lin1080\itap0 {\insrsid11889829 Deliberar sobre los asuntos para lo cual fueron convocadas:
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 b)\tab}Examinar y aprobar los informes financieros y otros informes que le presente a la Junta Directiva nombrar una comisi\'f3n de miembr
+os para que revise estos informes y se convoque de ser necesario, a una asamblea extraordinaria;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 c)\tab}Nombrar, remover o revocar a los miembros de la Junta Directiva, de acuerdo a lo estipulado en estos estatutos y en el Art\'edculo 448 de la Ley Org\'e1nica del Trabajo;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 d)\tab}Resolver sobre la disoluci\'f3n y liquidaci\'f3n de la Asociaci\'f3n Sindical; si ello fuere acordado a tal efecto en la asamblea general, se designar\'e1 una comisi\'f3
+n formada por cinco (5) miembros, quienes se encargar\'e1n de todo lo relacionado con la liquidaci\'f3n. Esta comisi\'f3n presentar\'e1 su informe a una asamblea extraordinaria que se convocar\'e1 para tal fin;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 e)\tab}Modificar y reformar total o parcialmente los presentes estatutos;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 f)\tab}Decidir sobre el destino de los bienes y activos de la Asociaci\'f3n Sindical en caso de disoluci\'f3n y liquidaci\'f3n del mismo.
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid11889829 
+\par }\pard\plain \s3\qc \li0\ri0\keepn\nowidctlpar\faauto\outlinelevel2\rin0\lin0\itap0 \b\fs24\ul\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 {\insrsid11889829 CAPITULO VI
+\par }\pard\plain \qc \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 {\b\ul\insrsid11889829 REGIMEN ECONOMICO
+\par }\pard\plain \s15\qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 {\insrsid11889829 
+\par }\pard\plain \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 {\b\insrsid11889829 Art\'edculo 41.-}{\insrsid11889829  Las Finanzas o fondos de la Asociaci\'f3n Sindical se formar\'e1
+n con las contribuciones ordinarias y extraordinarias que, obligatoriamente, aportar\'e1n sus miembros, y por las dem\'e1s contribuciones que voluntariamente hicieren \'e9stos y terceras personas o instituciones.
+\par }{\b\insrsid11889829 Art\'edculo 42.- }{\insrsid11889829 Cada miembro contribuir\'e1 al sostenimiento de la Asociaci\'f3n Sindical con una cuota ordinaria del uno por ciento (1%) de su salario me
+nsual; para el funcionamiento y sostenimiento administrativo y operativo de la Asociaci\'f3n Sindical, la cual ser\'e1 descontada autom\'e1ticamente por n\'f3mina, mediante relaci\'f3n que al efecto se presentar\'e1
+ cada vez que haya movimiento de ingreso o egreso de miembros asociados, descuento \'e9ste autorizado por el afiliado desde el mismo momento que es admitido a pertenecer a la Asociaci\'f3n Sindical.
+\par }{\b\insrsid11889829 Art\'edculo 43.- }{\insrsid11889829 La asamblea general dc miembros podr\'e1 fijar, cuando las circunstancias as\'ed lo ameriten, por razones de urgencia o emergencia, un aporte extraordinario superior al ordinario, el cual no podr
+\'e1 ser superior al dos por ciento (2%) del salario mensual del asociado, siempre y cuando sean plenamente justificados en los intereses del objeto de la Asociaci\'f3n Sindical.
+\par }{\b\insrsid11889829 Articulo 44.- }{\insrsid11889829 Los aportes sean ordinarios o extraordinarios, se recaudar\'e1n mediante los correspondientes descuentos que la empresa har\'e1 anualmente a cada uno de los miembros de la n\'f3mina de pago y ser\'e1
+n entregados al Secretario de Finanzas.
+\par }{\b\insrsid11889829 Articulo 45.-}{\insrsid11889829  Los fondos de la Asociaci\'f3n Sindical estar\'e1n bajo la responsabilidad de la Junta Directiva, deber\'e1n ser depositados en una cuenta de ahorros de cualquier entidad Bancaria}{
+\dn6\insrsid11889829 9 }{\insrsid11889829 ya sea Comercial, Universal o Entidad de Ahorro y Pr\'e9stamo. Todo conforme lo preceptuado en el Articulo 439 de la Ley Org\'e1nica del Trabajo, y s\'f3lo podr\'e1 movilizarse \'fa
+nicamente con las firmas autorizadas dcl Secretario General, el Secretario de Organizaci\'f3n y el Secretario de Finanzas, en forma conjunta, todo en cumplimiento de lo pautado en estos estatutos y en el Articulo 440 de la Ley Org\'e1nica del Trabajo.
+
+\par }{\b\insrsid11889829 Art\'edculo 46.- }{\insrsid11889829 En todo lo que no estuviere expresamente estipulado en estos estatutos con relaci\'f3n a los fondos sindicales, se aplicar\'e1 lo que a tal efecto est\'e1 establecido en el Art\'ed
+culo 437 y siguientes de la Ley Org\'e1nica del Trabajo.
+\par }{\b\insrsid11889829 Art\'edculo 47.- }{\insrsid11889829 Se crea un apartado o fondo de reserva, cuyo monto es equivalente al diez por ciento (10%) de los fondos comunes de la Asociaci\'f3n Sindical. Las cantidades as\'ed obtenidas s\'f3lo podr\'e1
+n destinarse a subsidiar a los miembros activos solventes del Sindicato que lleguen a sufrir un accidente que los incapacite totalmente para el trabajo. Dicha ayuda ser\'e1 acordada por una sola vez a cada miembro y su monto ser\'e1 fijado por la Junt
+a Directiva conforme a las posibilidades econ\'f3micas de la Asociaci\'f3n Sindical. En caos excepcionales, la Asamblea General podr\'e1 determinar una ayuda adicional al afiliado afectado.
+\par 
+\par }\pard \qc \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\ul\insrsid11889829 CAPITULO VII
+\par DEL TRIBUNAL DISCIPLINARIO
+\par }\pard\plain \s15\qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 {\insrsid11889829 
+\par }\pard\plain \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 {\b\insrsid11889829 Art\'edculo 48.- }{\insrsid11889829 El Tribunal Disciplinario estar\'e1
+ formado por tres (3) miembros principales y dos (2) suplentes, los cuales ser\'e1n electos en la misma forma y con el mismo procedimiento para la elecci\'f3n de la Junta Directiva; durar\'e1n en su funciones por periodos de tres (3) a\'f1os, pudiendo ser
+ reelectos por un per\'edodo m\'e1s. Los miembros principales ser\'e1n  Presidente, Vicepresidente y Secretario. Los dos (2) suplentes suplir\'e1n las faltas temporales o absolutas de los miembros principales.
+\par }{\b\ul\insrsid11889829 UNICO:}{\insrsid11889829  Los miembros del Tribunal Disciplinario no gozar\'e1n del fuero sindical a que se refiere el Art\'edculo 451 de la Ley Org\'e1nica del Trabajo.
+\par }{\b\insrsid11889829 Art\'edculo 49.- }{\insrsid11889829 El qu\'f3rum para la instalaci\'f3n del Tribunal Disciplinario ser\'e1 la concurrencia de sus tres (3) miembros principales, o de quien haga sus veces, y para la valid
+ez de sus decisiones se requiere el voto favorable de dos (2) de ellos.
+\par }{\b\insrsid11889829 Art\'edculo 50.- }{\insrsid11889829 El Tribunal Disciplinario tiene por objeto conocer de las denuncias que pudieran producirse contra los miembros de la asociaci\'f3n Sindical v los integrantes de la Junta Directiva.
+\par }{\b\insrsid11889829 Art\'edculo 51.- }{\insrsid11889829 El Tribunal Disciplinario, se constituir\'e1 al d\'eda siguiente de haber sido convocado por la Directiva o por la correspondiente Asamblea y conocer\'e1
+ de las acusaciones contra cualquiera dc los miembros de la Asociaci\'f3n Sindical o de la Junta Directiva, procediendo dc inmediato a la apertura de la correspondiente averiguaci\'f3n y formaci\'f3n de un expediente respectivo, luego estudiar\'e1
+ el expediente del o de los acusados y citar\'e1 con cuarenta y ocho (48) horas de anticipaci\'f3n a la persona afectada, o de su apoderado, o a quien se haya designado para ejercer la representaci\'f3n, el cual har\'e1 su defensa. Se abrir\'e1
+ un lapso no mayor de siete (7) d\'edas h\'e1biles dentro del cual se recibir\'e1n y examinar\'e1n las pruebas testimoniales y cualquier otro tipo de pruebas legales. O\'ed
+das las partes garantizando el derecho a la defensa y el debido proceso, en un lapso no mayor de siete (7) d\'edas proceder\'e1 a dictar su fallo. El fallo deber\'e1 ser dictado y aprobado por la mayor\'eda del Tribunal, y se har\'e1 del conocimiento 
+dc la Asamblea General en presencia del acusado, para que \'e9ste conozca del fallo, el cual puede ser apelado por ante la Asamblea General, la cual a su vez puede aprobar o improbar el fallo dictado. El afectado podr\'e1 recurrir dc la decisi\'f3n por v
+\'eda jurisdiccional.
+\par }{\b\ul\insrsid11889829 UNICO:}{\insrsid11889829  En caso de que el acusado no comparezca personalmente y no designe un defensor, la Asamblea General, podr\'e1 proceder a nombrar un defensor de oficio, quien tambi\'e9n deber\'e1
+ ser miembro activo de la Organizaci\'f3n Sindical, y ejercer\'e1 en este caso la representaci\'f3n del acusado por ante el Tribunal Disciplinario y la Propia Asamblea.
+\par }{\b\insrsid11889829 Articulo 52.- }{\insrsid11889829 Se considerar\'e1 como causas suficientes para sanciones, suspensiones o expulsiones a cualquiera de los afiliados a la Organizaci\'f3n Sindical, adem\'e1s de las se\'f1aladas en el art\'ed
+culo 15, las que se indican a continuaci\'f3n:
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 a)\tab}}\pard \qj \fi-720\li1080\ri0\nowidctlpar\jclisttab\tx1080\faauto\ls16\rin0\lin1080\itap0 {\insrsid11889829 La realizaci\'f3n de actos que vayan directamente contra la Organizaci\'f3
+n Sindical, tales como la difamaci\'f3n, injuria, calumnia a \'e9sta, a la Junta Directiva o a los miembros asociados.
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 b)\tab}Cuando sin causa justificada deje de pagar las cuotas correspondientes de la Organizaci\'f3n Sindical, por tres (3) veces consecutivas.
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 c)\tab}Negarse a cooperar en las labores de la Organizaci\'f3n Sindical
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 d)\tab}Ingresar a una Organizaci\'f3n similar o paralela.
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 e)\tab}Por utilizar el nombre de la Organizaci\'f3n Sindical sin tener suficiente autoridad para ello, sobre todo cuando el uso indebido del nombre pueda acarrear perjuicios a la Organizaci\'f3
+n Sindical o a cualquiera de sus afiliados.
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 f)\tab}Por conducta inmoral que vaya contra la decencia y las buenas costumbres, y que por tanto pueda perjudicar el buen nombre de la Organizaci\'f3n Sindical.
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 g)\tab}Por la malversaci\'f3n de los fondos de la Organizaci\'f3n Sindical cuando le hayan sido confiados.
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid11889829 
+\par }{\b\insrsid11889829 Art\'edculo 53.- }{\insrsid11889829 Las sanciones que el Tribunal Disciplinario puede imponer son:
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 a)\tab}}\pard \qj \fi-360\li720\ri0\nowidctlpar\jclisttab\tx720\faauto\ls18\rin0\lin720\itap0 {\insrsid11889829 Amonestaciones, escritas o verbales;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 b)\tab}Suspensi\'f3n hasta por seis (6) meses;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 c)\tab}Suspensi\'f3n hasta por doce (12) meses
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 d)\tab}Suspensi\'f3n hasta por dos (2) a\'f1os; y
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 e)\tab}Expulsi\'f3n definitiva de la Organizaci\'f3n Sindical
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid11889829 Estas sanciones se aplicar\'e1n de acuerdo a la gravedad de la falta y ser\'e1n aplicadas s\'f3lo por las causales establecidas en estos estatutos y en los Art\'ed
+culos 436 y 448 de la Ley Org\'e1nica del Trabajo.
+\par 
+\par }\pard \qc \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\ul\insrsid11889829 CAPITULO VIII
+\par DISPOSICIONES FINALES
+\par }\pard\plain \s15\qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 {\insrsid11889829 
+\par }\pard\plain \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang3082\langfe3082\cgrid\langnp3082\langfenp3082 {\b\insrsid11889829 Art\'edculo 54.- }{\insrsid11889829 En todo lo que no estuviere expresamente expuesto en estos estatutos, se aplicar
+\'e1 lo estipulado en el T\'edtulo S\'e9ptimo, Cap\'edtulo Segundo, Secci\'f3n Primera a la Secci\'f3n S\'e9ptima, ambas inclusive, de la Ley Org\'e1nica del Trabajo.
+\par }{\b\insrsid11889829 Art\'edculo 55.- }{\insrsid11889829 Reglas para la autenticidad de las actas de la Junta Directiva y el Tribunal Disciplinario:
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 a)\tab}}\pard \qj \fi-720\li1080\ri0\nowidctlpar\jclisttab\tx1080\faauto\ls19\rin0\lin1080\itap0 {\insrsid11889829 
+Las actas de las asambleas generales de miembros, ya sean ordinarias o extraordinarias, deben ser suscritas por el Secretario dc General y el Secretario de Actas y Correspondencias;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 b)\tab}Las actas de las reuniones de la Junta Directiva, ser\'e1n autenticadas por el Secretario General y el Secretario de Actas y Correspondencias;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 f)\tab}}\pard \qj \fi-360\li720\ri0\nowidctlpar\jclisttab\tx720\faauto\ls18\rin0\lin720\itap0 {\insrsid11889829 Las actas de las reuniones del Tribunal Disciplinario ser\'e1
+n autenticadas por el Presidente y el Secretario.
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid11889829 
+\par }{\b\insrsid11889829 Art\'edculo 56.- }{\insrsid11889829 La Asociaci\'f3n Sindical s\'f3lo se podr\'e1 disolver cuando no tenga el n\'famero de miembros exigidos por la Ley Org\'e1nica del Trabajo para el funcionamiento.
+\par }{\b\insrsid11889829 Art\'edculo 57.- }{\insrsid11889829 En caso de liquidaci\'f3n de la Organizaci\'f3n Sindical, la Junta Directiva en Asamblea General Extraordinaria de Miembros convocada con el objeto dc designar a los Liquidadores, y le fijar\'e1
+ sus atribuciones y las pautas que han de seguirse en cuanto al destino de los bienes de acuerdo con lo dispuesto en los Articulo 459 al 462 de la Ley Org\'e1nica del Trabajo. No podr\'e1
+n ser liquidadores los miembros de la Junta Directiva. En caso de disoluci\'f3n voluntaria, practicada la liquidaci\'f3n, el remanente que resultase se le dar\'e1 el destino que acuerde la asamblea.
+\par }{\b\insrsid11889829 Art\'edculo 58.- }{\insrsid11889829 Son atribuciones de los Liquidadores:
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 a)\tab}}\pard \qj \fi-720\li1080\ri0\nowidctlpar\jclisttab\tx1080\faauto\ls20\rin0\lin1080\itap0 {\insrsid11889829 Cancelar las obligaciones pendientes de la Asociaci\'f3n Sindical;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 b)\tab}Cobrar y recaudar las cuotas o cantidades que por alg\'fan concepto se le adeuden a la Asociaci\'f3n Sindical;
+\par {\listtext\pard\plain\hich\af0\dbch\af0\loch\f0 c)\tab}Inventariar y valorizar los bienes de la Asociaci\'f3n Sindical;
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid11889829 Concluido este proceso proceder\'e1
+n a convocar una asamblea extraordinaria con el objeto de presentar un informe detallado de las gestiones y actividades efectuadas. La asamblea con vista a \'e9ste informe podr\'e1 decidir si los bienes de la Asociaci\'f3n Sindical pued
+en ser donados Dicho remanente deber\'e1 ser destinado al Fondo de Jubilaciones del personal de la Fundaci\'f3n Centro Nacional para el mejoramiento de la Ense\'f1anza de la Ciencia o otras Organizaciones Sindicales existentes en el Pa\'ed
+s o en una Entidad Ben\'e9fica.
+\par }{\b\insrsid11889829 Articulo 59.-}{\insrsid11889829  Del informe definitivo y de lo que resuelva la asamblea con relaci\'f3n a los bienes de la Asociaci\'f3n Sindical una vez liquidada, se presentar\'e1 un informe detallado a la Inspector\'ed
+a del Trabajo dc la Jurisdicci\'f3n, dentro de un lapso no mayor de seis (6) meses.
+\par 
+\par 
+\par }\pard \qc \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\insrsid11889829 SINDICATO DE LOS TRABAJADORES DE LA FUNDACI\'d3N CENTRO NACIONAL PARA EL MEJORAMIENTO DE LA ENSE\'d1ANZA DE LA
+\par CIENCIA (SINTRACENAMEC)
+\par 
+\par POR LA JUNTA DIRECTIVA 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par TRIBUNAL DISCIPLINARIO}{\insrsid11889829 
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid11889829 
+\par 
+\par }}

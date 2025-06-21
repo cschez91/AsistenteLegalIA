@@ -1,0 +1,7 @@
+streamlit
+python-docx
+PyPDF2
+pandas
+tenacity
+numpy
+langchain-cohere
