@@ -343,7 +343,6 @@ with tab_cargar:
                     st.write(f"Procesando: **{uploaded_file.name}**")
                     # Inicialización de variables para metadatos extraídos por IA (comentado por defecto)
                     # Estas variables se inicializan vacías ya que la extracción de metadatos con IA está comentada.
-                    # La línea que causaba el SyntaxError ha sido corregida/comentada para evitar el error.
                     # if llm and st.checkbox(f"Extraer metadatos con IA para {uploaded_file.name} (experimental)"):
                     #     with st.spinner("Extrayendo metadatos con IA..."):
                     #         try:
@@ -383,7 +382,7 @@ with tab_cargar:
                     #         except Exception as ai_e:
                     #             st.warning(f"No se pudieron extraer metadatos con IA para {uploaded_file.name}: {ai_e}")
                     #             doc_type_ai, legal_area_ai, parties_ai, doc_date_ai, summary_ai, keywords_ai = "", "", "", "", "", ""
-                    doc_type_ai, legal_area_ai, parties_ai, doc_date_ai, summary_ai, keywords_ai = "", "", "", "", "", "" # Esta línea estaba antes debajo del 'else' problemático
+                    doc_type_ai, legal_area_ai, parties_ai, doc_date_ai, summary_ai, keywords_ai = "", "", "", "", "", "" 
 
                     insert_document(
                         file_path, 
