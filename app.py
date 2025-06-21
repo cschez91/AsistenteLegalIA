@@ -343,14 +343,53 @@ with tab_cargar:
                     st.write(f"Procesando: **{uploaded_file.name}**")
                     # Inicialización de variables para metadatos extraídos por IA (comentado por defecto)
                     # Estas variables se inicializan vacías ya que la extracción de metadatos con IA está comentada.
-                    doc_type_ai, legal_area_ai, parties_ai, doc_date_ai, summary_ai, keywords_ai = "", "", "", "", "", ""
+                    # La línea que causaba el SyntaxError ha sido corregida/comentada para evitar el error.
+                    # if llm and st.checkbox(f"Extraer metadatos con IA para {uploaded_file.name} (experimental)"):
+                    #     with st.spinner("Extrayendo metadatos con IA..."):
+                    #         try:
+                    #             short_text = full_text[:4000] # Primeros 4000 caracteres
+                    #             prompt_metadata = f"""Extrae los siguientes metadatos del siguiente documento legal:
+                    #             - Tipo de Documento (ej. Contrato, Sentencia, Ley, Demanda, etc.)
+                    #             - Área Legal (ej. Civil, Penal, Mercantil, Laboral, etc.)
+                    #             - Partes Involucradas (nombres de personas o entidades)
+                    #             - Fecha del Documento (formato AAAA-MM-DD si es posible)
+                    #             - Resumen breve (2-3 líneas)
+                    #             - Palabras Clave (3-5 relevantes)
+                    #             Documento:
+                    #             {short_text}
+                    #             Formato de salida (JSON):
+                    #             ```json
+                    #             {{
+                    #                 "tipo_documento": "...",
+                    #                 "area_legal": "...",
+                    #                 "partes": "...",
+                    #                 "fecha_documento": "AAAA-MM-DD",
+                    #                 "resumen": "...",
+                    #                 "palabras_clave": "..."
+                    #             }}
+                    #             ```
+                    #             """
+                    #             response = llm.invoke(prompt_metadata)
+                    #             extracted_metadata = json.loads(response.content.strip("```json\n```").strip())
+                    #             
+                    #             doc_type_ai = extracted_metadata.get("tipo_documento", "")
+                    #             legal_area_ai = extracted_metadata.get("area_legal", "")
+                    #             parties_ai = extracted_metadata.get("partes", "")
+                    #             doc_date_ai = extracted_metadata.get("fecha_documento", "")
+                    #             summary_ai = extracted_metadata.get("resumen", "")
+                    #             keywords_ai = extracted_metadata.get("palabras_clave", "")
+                    #             
+                    #             st.json(extracted_metadata) # Mostrar lo que extrajo la IA
+                    #         except Exception as ai_e:
+                    #             st.warning(f"No se pudieron extraer metadatos con IA para {uploaded_file.name}: {ai_e}")
+                    #             doc_type_ai, legal_area_ai, parties_ai, doc_date_ai, summary_ai, keywords_ai = "", "", "", "", "", ""
+                    doc_type_ai, legal_area_ai, parties_ai, doc_date_ai, summary_ai, keywords_ai = "", "", "", "", "", "" # Esta línea estaba antes debajo del 'else' problemático
 
-                    # Insertar el documento procesado en la base de datos
                     insert_document(
                         file_path, 
                         uploaded_file.name, 
                         full_text,
-                        doc_type=doc_type_ai or doc_type, # Usar el tipo detectado o el de IA si se activa
+                        doc_type=doc_type_ai or doc_type, # Usar el tipo detectado o el de IA
                         legal_area=legal_area_ai, 
                         parties=parties_ai, 
                         doc_date=doc_date_ai, 
